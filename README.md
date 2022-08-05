@@ -1,33 +1,34 @@
 # -ACE1-P1_Grupo-2
 
 ## 🥇🥇🥇🤗🤗🤗  Bienvenid@ a nuestra Practica #1  🤗🤗🤗🥇🥇🥇
-El Departamento de Soporte Informático (DSI) de la escuela de ciencias y sistemas, está reclutando a
-un grupo de estudiantes específicamente del curso de organización computacional para que brinden
-asesorías y soluciones integrales a gran escala a la federación nacional de futbol de Guatemala. La
-intención de estos es poder innovar en la publicidad visual de todos los partidos oficiales o amistosos
-que tenga la selección nacional en el Estadio Doroteo Guamuch Flores y de esta manera atraer a más
-patrocinadores.
-Dada esta iniciativa los dirigentes deciden hacer bardas publicitarias alrededor del campo que sean
-legibles de ambos lados.
-Por lo cual se debe realizar dos circuitos combinacionales de 3 Bits que para las entradas V, W, X
-produzcan las salidas [Y] y [Z], las cuales mostraran un patrocinador que será asignado a cada grupo.
-La salida [Y] será el frontal de la barda publicitaria por lo tanto la salida [Z] será el reverso al que le
-deberán aplicar un efecto de espejo para que este sea legible del otro lado.
-La forma de mostrar estas salidas será en dos displays de siete segmento
+Uso de dos matrices led 8x8 para generar una pantalla 16x8 que muestre el estado instantaneo de la solución a desarrollar.
+La solución es capaz de mostrar mostrar un mensaje desplazable tipo scroll ademas es capaz de iniciar un juego tipo tetris y proporcionar información de contexto en ciertos momentos, los detalles se dan
+más adelante en su respectivo apartado.
+
+## Objetivos
+### Objetivo General
+- Que el estudiante interactúe con el microcontrolador Arduino.
+### Objetivos Específicos
+- Comprender el funcionamiento de las entradas y salidas con las que cuenta el microcontrolador.
+- Aprender y aplicar el funcionamiento del lenguaje y las funciones disponibles para programar el microcontrolador.
+- Aprender y aplicar el funcionamiento de las matrices led (8x8) e implementar algorimos complejos a su uso.
+- Aprender y aplicar el funcionamiento de botones para proporcionar acción a una solución.
+- Aprender y aplicar el funcionamiento de potenciómetros (como dispositivo análogo) para proporcionar acción a una solución.
+
 ## Comenzando 🚀
 
-Practica utilizando las herramientas mediante Proteus con el uso de Github Pages como despliegue de la practica.
+Practica utilizando las herramientas mediante Proteus con el uso del Modulo de ARDUINO (Simulino).
     💻 Proteus
     
     🔌 Electronica Basica 
     
     🖥 Manipulación Software
     
-    🎇 Manipulacion de componentes fisicos
+    🎇 Manipulacion de componentes electronicos
 
 ### Pre-requisitos 📋
 
-Navegador
+Proteus instalado
 
 
 ## Construido con 🛠️
